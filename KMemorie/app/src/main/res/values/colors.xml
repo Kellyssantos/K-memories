@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- CORES PADRÕES DO APP -->
+    <color name="background_telas_iniciais">#4354AE</color>
+    <color name="background_botoes_iniciais">#162576</color>
+</resources>
